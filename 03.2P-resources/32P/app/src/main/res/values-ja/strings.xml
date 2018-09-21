@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">3.2P</string>
+    <string name="milesInput">マイル</string>
+    <string name="feetInput">足</string>
+    <string name="inchesInput">インチ</string>
+    <string name="convertButton">変換</string>
+</resources>

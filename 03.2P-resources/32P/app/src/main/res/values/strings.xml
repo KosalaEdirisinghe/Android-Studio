@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">3.2P</string>
+    <string name="milesInput">Miles</string>
+    <string name="feetInput">Feet</string>
+    <string name="inchesInput">Inches</string>
+    <string name="convertButton">Convert</string>
+
+</resources>
